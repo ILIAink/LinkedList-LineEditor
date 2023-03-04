@@ -1,6 +1,6 @@
 ## Purpose
 
-- Introducing a versatile text editor that empowers users to effortlessly load their desired text file and seamlessly modify it using pre-defined commands.
+- Introducing a user-friendly text editor that empowers users to effortlessly load and modify their desired text files using pre-defined commands. Users can perform a range of operations such as appending, inserting, and deleting lines, replacing words, getting word counts, printing the entire text, saving the text, and more.
 - [Here is a video demonstration]()
 
 ## Why it's cool
