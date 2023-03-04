@@ -1,18 +1,9 @@
-## Getting Started
+## Purpose
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Introducing a versatile text editor that empowers users to effortlessly load their desired text file and seamlessly modify it using pre-defined commands.
+- [Here is a video demonstration]()
 
-## Folder Structure
+## Why it's cool
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- This project was developed using a test-driven approach. I leveraged the JUnit framework to create comprehensive test cases for each function within the LineList class. This meticulous process not only simplifies debugging but also guarantees that each function runs properly.
+- In this project, I opted to use the Linked List data structure to navigate the loaded text file. This choice offers a more efficient way to insert and delete lines when compared to the commonly used array approach.
