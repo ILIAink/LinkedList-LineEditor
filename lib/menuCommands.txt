@@ -1,0 +1,13 @@
+Menu: m
+Load File: load fileName appendOption(1-append, 0-new list)
+Print: p
+Display number of lines: lines
+Display line: line lineNumber
+Count words: words
+Delete line: del lineNumberToDelete
+Append line: a [your_line_here]
+Insert line: i lineNumberToInseart
+Clear document: cls
+Replace words: rep originalWord newWord
+Save to a file: s fileName
+Quit: quit
